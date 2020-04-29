@@ -84,6 +84,3 @@ void loop() {
         }
 }
 
-//the parse int takes away the first integer and and the input replace takes away the space which leaves the second number
-
-
