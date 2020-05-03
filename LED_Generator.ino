@@ -31,7 +31,7 @@ digitalWrite(A0, LOW);
     digitalWrite(A9, LOW);
     digitalWrite(A11, LOW);
 
-  randNumber = random(6, 7);
+  randNumber = random(0, 7);
   Serial.println(randNumber);
 
   if(randNumber == 1){
